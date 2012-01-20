@@ -37,3 +37,6 @@
 [submodule "bundle/vim-pandoc"]
 	path = bundle/vim-pandoc
 	url = https://github.com/vim-pandoc/vim-pandoc.git
+[submodule "bundle/octopress"]
+	path = bundle/octopress
+	url = https://github.com/tangledhelix/vim-octopress.git
