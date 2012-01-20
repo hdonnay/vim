@@ -31,9 +31,6 @@
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
 	url = https://github.com/msanders/snipmate.vim.git
-[submodule "bundle/vim-wiki"]
-	path = bundle/vim-wiki
-	url = gitolite@git.hdonnay.net:usr/hank/vim-wiki
 [submodule "bundle/vim-pandoc"]
 	path = bundle/vim-pandoc
 	url = https://github.com/vim-pandoc/vim-pandoc.git
