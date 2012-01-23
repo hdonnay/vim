@@ -37,3 +37,6 @@
 [submodule "bundle/octopress"]
 	path = bundle/octopress
 	url = https://github.com/tangledhelix/vim-octopress.git
+[submodule "bundle/quicktask"]
+	path = bundle/quicktask
+	url = https://github.com/aaronbieber/quicktask.git
