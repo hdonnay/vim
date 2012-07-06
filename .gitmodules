@@ -40,3 +40,6 @@
 [submodule "bundle/quicktask"]
 	path = bundle/quicktask
 	url = https://github.com/aaronbieber/quicktask.git
+[submodule "bundle/puppet-syntax"]
+	path = bundle/puppet-syntax
+	url = https://github.com/puppetlabs/puppet-syntax-vim.git
