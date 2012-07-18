@@ -43,3 +43,6 @@
 [submodule "bundle/puppet-syntax"]
 	path = bundle/puppet-syntax
 	url = https://github.com/puppetlabs/puppet-syntax-vim.git
+[submodule "bundle/simplenote.vim"]
+	path = bundle/simplenote.vim
+	url = https://github.com/mrtazz/simplenote.vim.git
