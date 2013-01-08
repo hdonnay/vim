@@ -1,0 +1,24 @@
+[bundle/vim-pathogen]
+checkout = git clone https://github.com/tpope/vim-pathogen.git
+[bundle/nerdtree]
+checkout = git clone https://github.com/scrooloose/nerdtree.git
+[bundle/vim-markdown]
+checkout = git clone https://github.com/tpope/vim-markdown.git
+[bundle/vim-fugitive]
+checkout = git clone https://github.com/tpope/vim-fugitive.git
+[bundle/vim-surround]
+checkout = git clone https://github.com/tpope/vim-surround.git
+[bundle/supertab]
+checkout = git clone https://github.com/ervandew/supertab.git
+[bundle/tagbar]
+checkout = git clone https://github.com/majutsushi/tagbar.git
+[bundle/vim-colors-solarized]
+checkout = git clone https://github.com/altercation/vim-colors-solarized.git
+[bundle/ctrlp.vim]
+checkout = git clone https://github.com/kien/ctrlp.vim.git
+[bundle/snipmate.vim]
+checkout = git clone https://github.com/msanders/snipmate.vim.git
+[bundle/vim-pandoc]
+checkout = git clone https://github.com/vim-pandoc/vim-pandoc.git
+[bundle/puppet-syntax-vim]
+checkout = git clone https://github.com/puppetlabs/puppet-syntax-vim.git
