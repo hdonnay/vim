@@ -49,12 +49,3 @@ colorscheme solarized
 
 " Some filetypes
 au BufRead *mutt-* set tw=72
-
-" Simplenote support
-source ~/.auth/simplenoterc
-let g:SimplenoteVertical=1
-map <Leader>an :Simplenote -n<CR>
-map <Leader>al :Simplenote -l<CR>
-map <Leader>au :Simplenote -u<CR>
-map <Leader>ad :Simplenote -d<CR>
-map <Leader>aD :Simplenote -D<CR>
